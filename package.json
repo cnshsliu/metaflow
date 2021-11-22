@@ -1,0 +1,25 @@
+{
+  "name": "metaflow",
+  "version": "1.0.0",
+  "description": "A set of libraries enable every developer using any modern language to build full-fledge workflow systems which dispatch tasks to both human and computer system integratedly and collaboratively, using hyper-flow engine services provided by Metatocome.",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cnshsliu/metaflow.git"
+  },
+  "keywords": [
+    "workflow",
+    "hyper",
+    "automation",
+    "metatocome"
+  ],
+  "author": "lucaskhliu <liukehong@gmail.com> (https://www.metatocome.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnshsliu/metaflow/issues"
+  },
+  "homepage": "https://github.com/cnshsliu/metaflow#readme"
+}
